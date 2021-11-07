@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { Button } from "../Buttom/Button.jsx";
+import { Button } from "../Button/Button.jsx";
 
 export function FeedbackOptions({ onClick }) {
   return (
